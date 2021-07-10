@@ -1,0 +1,23 @@
+com/example/finalproject/BuildConfig.java
+ com.example.finalproject.BuildConfig
+com/example/finalproject/EditProfile.java
+ com.example.finalproject.EditProfile
+ com.example.finalproject.EditProfile$1
+ com.example.finalproject.EditProfile$2
+com/example/finalproject/Message.java
+ com.example.finalproject.Message
+com/example/finalproject/LogIn.java
+ com.example.finalproject.LogIn
+ com.example.finalproject.LogIn$1
+com/example/finalproject/MainActivity.java
+ com.example.finalproject.MainActivity
+ com.example.finalproject.MainActivity$1
+com/example/finalproject/RegisterActivity.java
+ com.example.finalproject.RegisterActivity
+ com.example.finalproject.RegisterActivity$1
+com/example/finalproject/User.java
+ com.example.finalproject.User
+com/example/finalproject/Profile.java
+ com.example.finalproject.Profile
+ com.example.finalproject.Profile$1
+ com.example.finalproject.Profile$2
